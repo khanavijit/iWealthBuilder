@@ -1,0 +1,11 @@
+# Gemini API Configuration
+GEMINI_MODEL = "gemini-2.5-flash-preview-09-2025"
+GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
+GEMINI_API_KEY = "AIzaSyB6xFwULvcDFCrbLB7Vj3C3mZzj1vXdtIA"
+
+INDICATOR_API_HOST = "13.204.23.149"
+INDICATOR_API_USERNAME = 'ITO02023'
+INDICATOR_API_PASSWORD = 'Dbac@1234'
+INDICATOR_API_IP = "INDICATOR_API_IP"
+MINERVINI_CHART_DAYS_AGO = 1760
+GI_DAYS_AGO = 15
