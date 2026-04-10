@@ -1,7 +1,7 @@
 # Gemini API Configuration
 GEMINI_MODEL = "gemini-2.5-flash-preview-09-2025"
 GEMINI_API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
-GEMINI_API_KEY = "AIzaSyB6xFwULvcDFCrbLB7Vj3C3mZzj1vXdtIA"
+GEMINI_API_KEY = ""
 
 INDICATOR_API_HOST = "13.204.23.149"
 INDICATOR_API_USERNAME = 'ITO02023'
